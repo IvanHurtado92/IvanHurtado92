@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there! 👋  
 
-<!--
-**IvanHurtado92/IvanHurtado92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ivan! I'm a 22-year-old software developer passionate about learning new programming languages and development tools.  
 
-Here are some ideas to get you started:
+I have experience with several languages, including C++, C#, Python, Java, HTML, CSS, and JavaScript. I also work with styling frameworks like Bootstrap and Tailwind, and I have experience using MySQL.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm learning how to build RESTful APIs in C# using ASP.NET Core Web API.  
+
+### Projects 🚀  
+
+I've worked on various projects, including **SubHub**, a school project where we developed a mobile application that helps users track their subscriptions and get reminders for upcoming payments.  
+
+##### 📂 SubHub Repository Links  
+- [SubHub App](https://github.com/IkarosKurtz/subhub)  
+- [SubHub API](https://github.com/IkarosKurtz/subhub-api)  
+
+Additionally, my classmates and I are collaborating with our local **Red Cross** to develop a **patient management system**.  
+
+### 📩 Get in Touch!  
+Feel free to reach out to me:  
+- 📧 Email: [ivan.hurtado92@outlook.com](mailto:ivan.hurtado92@outlook.com)  
+- 💼 LinkedIn: [Iván Hurtado](https://www.linkedin.com/in/iv%C3%A1n-hurtado-9a16831a2/)  
