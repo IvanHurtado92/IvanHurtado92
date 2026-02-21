@@ -1,6 +1,6 @@
 ## Hello there! 👋  
 
-Hi, I'm Ivan! I'm a 22-year-old software developer passionate about learning new programming languages and development tools.  
+Hi, I'm Ivan! I'm a 23-year-old software developer passionate about learning new programming languages and development tools.  
 
 I have experience with several languages, including C++, C#, Python, Java, HTML, CSS, and JavaScript. I also work with styling frameworks like Bootstrap and Tailwind, and I have experience using MySQL.  
 
